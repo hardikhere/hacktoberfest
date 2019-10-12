@@ -64,6 +64,6 @@ int  main()
 	    	cnt++;
 	    	p++;
 	    }
-	cout<<cnt<<endl;	
+	cout<<<<endl;	
 	}
 }
