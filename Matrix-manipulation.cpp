@@ -26,6 +26,16 @@ int  main()
             y--;
         }
 
+		for(int i=0;i<r*c;i++)
+	    {
+	    	int item;
+	    	item=*p;
+	    	if(item%2!=0)
+	    	cnt++;
+	    	p++;
+	    }
+	cout<<endl;	
+	}
         for(int i=0;i<r*c;i++)
         {
             int item;
