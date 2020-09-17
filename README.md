@@ -8,6 +8,7 @@ Hacktoberfest is a month long virtual festival event to celebrate open source co
 ### Prerequisites
 
 A Github Account
+Hacktoberfest Account (Digital Ocean)
 
 
 ### What you get
